@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B18CF5ED-B2B2-9AFC-6C18-F62E0668B501}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ShowTextOnRecognize.cs">
+    <Files>
+      <File FileName="Assets/ShowTextOnRecognize.cs" Line="17" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chef_Unity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ShowTextOnRecognize.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a7f8f15e-6368-45c9-9411-1e68c0aacb68" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

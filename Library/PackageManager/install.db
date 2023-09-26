@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "88e4a5432e86",
+        "mtime": 1695716585354,
+        "size": 140097664,
+        "localPath": "/Users/hzzqcy/UnityProject/Chef_Unity/Packages/com.ptc.vuforia.engine-10.16.3.tgz"
+      }
+    }
+  }
+}
